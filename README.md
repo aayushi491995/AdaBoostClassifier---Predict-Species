@@ -1,7 +1,7 @@
 # AdaBoostClassifier---Predict-Species
 Predict flower specifies using AdaBoost Classifier.
 
-Contents
+### Contents
 This project is meant to explore, analyse, visualize and predict the salary of an individual:
       1. Id    
       2. SepalLengthCm
